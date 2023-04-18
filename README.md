@@ -1,11 +1,11 @@
 # MANAGER-SYSTEMS
 
 # TESTE-MANAGER-SYSTEMS
-Api desenvolvida como teste técnico, com ás tecnologias Java, Spring e H2 Database.
+Api desenvolvida como teste técnico, com As tecnologias Java, Spring e H2 Database.
 
 # Visão Geral
 
-Projeto de uma API, no padrão MVC com o objetivo de avaliação técnica pela empresa Manager Systemns, faz uso de Spring Boot 2.7.10, JDK 17 e  Maven .
+Projeto de uma API, no padrão MVC com o objetivo de avaliação técnica pela empresa Manager Systems, faz uso de Spring Boot 2.7.10, JDK 17 e  Maven .
 
 
 Para ilustrar o projeto inclui:
